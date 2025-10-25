@@ -23,11 +23,11 @@ Zhou, P., Madaan, A., Potharaju, S. P., Gupta, A., McKee, K. R., Holtzman, A., .
 
 Huang, J. T., Wang, W., Li, E. J., Lam, M. H., Ren, S., Yuan, Y., ... & Lyu, M. (2023). On the humanity of conversational ai: Evaluating the psychological portrayal of llms. In *The Twelfth International Conference on Learning Representations*.[[PDF](https://openreview.net/pdf?id=H3UayAQWoE)]
 
-Huang, J. T., Jiao, W., Lam, M. H., Li, E. J., Wang, W., & Lyu, M. (2024, November). On the reliability of psychological scales on large language models. In *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing* (pp. 6152-6173).[[PDF](https://aclanthology.org/2024.emnlp-main.354.pdf)]
-
 Bouguettaya, A., Stuart, E. M., & Aboujaoude, E. (2025). Racial bias in AI-mediated psychiatric diagnosis and treatment: a qualitative comparison of four large language models. *npj Digital Medicine*, *8*(1), 332.[[PDF](https://www.nature.com/articles/s41746-025-01746-4.pdf)]
 
 Li, C., Wang, J., Zhang, Y., Zhu, K., Wang, X., Hou, W., ... & Xie, X. (2023). The good, the bad, and why: Unveiling emotions in generative ai. *arXiv preprint arXiv:2312.11111*.[[PDF](https://openreview.net/pdf?id=wlOaG9g0uq)]
+
+Shinoda, K., Hojo, N., Nishida, K., Mizuno, S., Suzuki, K., Masumura, R., Sugiyama, H., & Saito, K. (2025). ToMATO: Verbalizing the Mental States of Role-Playing LLMs for Benchmarking Theory of Mind. *Proceedings of the AAAI Conference on Artificial Intelligence*, *39*(2), 1520-1528. [[PDF](https://doi.org/10.1609/aaai.v39i2.32143)]
 
 Choi, S., Lee, J., Yi, X., Yao, J., Xie, X., & Bak, J. (2025). Unintended Harms of Value-Aligned LLMs: Psychological and Empirical Insights. *arXiv preprint arXiv:2506.06404*.[[PDF](https://aclanthology.org/2025.acl-long.1532.pdf)]
 
@@ -112,6 +112,8 @@ Wang, Y., Yang, I., Hassanpour, S., & Vosoughi, S. (2024). MentalManip: A datase
 
 Wang, X., Li, C., Chang, Y., Wang, J., & Wu, Y. (2024). Negativeprompt: Leveraging psychology for large language models enhancement via negative emotional stimuli. *arXiv preprint arXiv:2405.02814*.[[PDF](https://www.ijcai.org/proceedings/2024/0719.pdf)]
 
+Huang, J. T., Jiao, W., Lam, M. H., Li, E. J., Wang, W., & Lyu, M. (2024, November). On the reliability of psychological scales on large language models. In *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing* (pp. 6152-6173).[[PDF](https://aclanthology.org/2024.emnlp-main.354.pdf)]
+
 Kim, J., Ma, S.P., Chen, M.L. *et al.* Optimizing large language models for detecting symptoms of depression/anxiety in chronic diseases patient communications. *npj Digit. Med.* **8**, 580 (2025). [[PDF](https://doi.org/10.1038/s41746-025-01969-5)]
 
 Wang, R., Milani, S., Chiu, J. C., Zhi, J., Eack, S. M., Labrum, T., ... & Chen, Z. Z. (2024). Patient-{\Psi}: Using large language models to simulate patients for training mental health professionals. arXiv preprint arXiv:2405.19660.[[PDF](https://arxiv.org/pdf/2405.19660)]
@@ -148,11 +150,9 @@ Chen, Z., Cao, Y., Bi, G., Wu, J., Zhou, J., Xiao, X., Chen, S., Wang, H., & Hua
 
 Wang, J., Huang, Y., Liu, Z., Xu, D., Wang, C., Shi, X., Guan, R., Wang, H., Yue, W., & Huang, Y. (2025). STAMPsy: Towards SpatioTemporal-Aware Mixed-Type Dialogues for Psychological Counseling. *Proceedings of the AAAI Conference on Artificial Intelligence*, *39*(24), 25371-25379. [[PDF](https://doi.org/10.1609/aaai.v39i24.34725)]
 
-Lissak, S., Calderon, N., Shenkman, G., Ophir, Y., Fruchter, E., Klomek, A. B., & Reichart, R. (2024). The colorful future of llms: Evaluating and improving llms as emotional supporters for queer youth. *arXiv preprint arXiv:2402.11886*.[[PDF](https://arxiv.org/pdf/2402.11886)]
-
 Xu, B., Li, L., Wang, J., Qiao, X., Yu, E., Qian, Y., ... & Lin, H. Unveiling Maternity and Infant Care Conversations: A Chinese Dialogue Dataset for Enhanced Parenting Support.[[PDF](https://www.ijcai.org/proceedings/2025/0923.pdf)]
 
-Shinoda, K., Hojo, N., Nishida, K., Mizuno, S., Suzuki, K., Masumura, R., Sugiyama, H., & Saito, K. (2025). ToMATO: Verbalizing the Mental States of Role-Playing LLMs for Benchmarking Theory of Mind. *Proceedings of the AAAI Conference on Artificial Intelligence*, *39*(2), 1520-1528. [[PDF](https://doi.org/10.1609/aaai.v39i2.32143)]
+
 
 Yang, K., Ji, S., Zhang, T., Xie, Q., Kuang, Z., & Ananiadou, S. (2023). Towards interpretable mental health analysis with large language models. *arXiv preprint arXiv:2304.03347*.[[PDF](https://arxiv.org/pdf/2304.03347)]
 
